@@ -13,3 +13,7 @@ If you could choose one part of your work on these documents to revise, what wou
 The Recommendation is the one part of the document that i feel like coud have been thought through better. While researching, i noticed that there are still many gaps in my knowledge, but with time constraints i was not able fill those gaps with more research. 
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+I interpretted the user's needs as a casual gamer. As a casual gamer, i like conveniences and ease of access so making sure the user did not have to jump through hoops to play the game was the focus. It is important to consider the user's needs when designing because there no better way to make a regualar user. Wanting users to come back and play more is what any company would want.
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+As a student I always approach designing software with modesty, because i know there is still a lot i don't know and there will always be roadblocks in the designing process. Stepping away from the analyzes and design after a burst of focus has always helped me, especially when i was not familiar with the material. When i step away from the work for a little while, i am able to see my mistakes or see things that i have overlooked. 
