@@ -1,3 +1,4 @@
+[CS 230 Software Design Template.docx](https://github.com/nectaly95/The-Gaming-Room-/files/11296856/CS.230.Software.Design.Template.docx)
 # The-Gaming-Room-
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
